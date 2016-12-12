@@ -1,0 +1,33 @@
+{
+  "name": "lesson17",
+  "version": "1.0.0",
+  "description": "Unit tests",
+  "main": "rest-api.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mongoose": "^4.6.6",
+    "supertest": "^2.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmalitsky/lesson17.git"
+  },
+  "keywords": [
+    "Mocha",
+    "Unit",
+    "Node.js",
+    "RestAPI"
+  ],
+  "author": "Nikolay Malitsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmalitsky/lesson17/issues"
+  },
+  "homepage": "https://github.com/nmalitsky/lesson17#readme"
+}
